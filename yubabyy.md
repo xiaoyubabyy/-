@@ -1,16 +1,16 @@
 #创建（笔记）库的流程
-<ul>
-创建一个文件夹
-建立一个后缀为.md的文件
-git init - 初始化
-git add .
-git commit -m""
-在github中建立一个库，复制其中一句代码
-git push
-根据提示再粘贴一句代码
-git push
-创建成功
-</ul>
+```
+- 创建一个文件夹
+- 建立一个后缀为.md的文件
+- git init - 初始化
+- git add .
+- git commit -m""
+- 在github中建立一个库，复制其中一句代码
+- git push
+- 根据提示再粘贴一句代码
+- git push
+- 创建成功
+```
 ### git clone 命令
 
 
